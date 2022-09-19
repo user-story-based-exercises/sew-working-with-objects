@@ -23,7 +23,7 @@ SEW | CORE | Working with Objects
 
 
 ## User Story 4
-*As a lazy developer I want to compare two objects easily, so that I can be sure about them.*
+*As a lazy developer I want to compare the structure of two objects easily, so that I can be sure about them.*
 
 ### Acceptance Criteria
 - A function equals(obj1, ob2) is available.
