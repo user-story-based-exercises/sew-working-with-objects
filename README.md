@@ -31,7 +31,6 @@ SEW | CORE | Working with Objects
 - The objects are equal if
   - they have the same number of members
   - if they both have members with the same name
-  - if those names are strictly equal (===)
 - The order of the members does not matter
 
 
