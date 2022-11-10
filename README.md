@@ -29,9 +29,9 @@ SEW | CORE | Working with Objects
 - A function equals(obj1, ob2) is available.
 - The function returns true, if obj1 and obj2 are equal.
 - The objects are equal if
-- - they have the same number of members
-- - if they both have members with the same name
-- - if those names are strictly equal (===)
+  - they have the same number of members
+  - if they both have members with the same name
+  - if those names are strictly equal (===)
 - The order of the members does not matter
 
 
