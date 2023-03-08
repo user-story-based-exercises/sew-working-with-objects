@@ -36,4 +36,3 @@ SEW | CORE | Working with Objects
 
 #### Links
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
-- https://my.skilldisplay.eu/en/skillset/953
