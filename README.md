@@ -34,5 +34,5 @@ SEW | CORE | Working with Objects
 - The order of the members does not matter
 
 
-#### Links
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+#### Skill(s)
+- [JavaScript Objects](https://my.skilldisplay.eu/en/skill/1838/0)
