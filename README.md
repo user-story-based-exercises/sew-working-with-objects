@@ -1,4 +1,4 @@
-SEW | CORE | Working with Objects
+SEW | Working with Objects
 
 ## User Story 1
 *As a curious developer I want to learn about objects, so that I can use them in the right way.*
@@ -34,5 +34,5 @@ SEW | CORE | Working with Objects
 - The order of the members does not matter
 
 
-#### Skill(s)
+## Skill(s)
 - [JavaScript Objects](https://my.skilldisplay.eu/en/skill/1838/0)
