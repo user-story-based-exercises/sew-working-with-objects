@@ -4,25 +4,31 @@ SEW | Working with Objects
 *As a curious developer I want to learn about objects, so that I can use them in the right way.*
 
 ### Acceptance Criteria
-- An object x is defined in a certain way, so that the statement console.log(x.y.z) prints 42 on the console.
+- An object x is defined in a certain way, so that the statement console.log(x.y.z) prints 42 to the console.
 
 
 ## User Story 2
 *As a curious developer I want to learn about objects, so that I can use them in the right way.*
 
 ### Acceptance Criteria
-- An object v is defined in a certain way, so that the statement console.log(v.v().v) prints 42 on the console.
-
+- An object v is defined in a certain way, so that the statement console.log(v.v().v) prints 42 to the console.
 
 ## User Story 3
-*As a lazy developer I want to count members of an object easily, so that I can use them in the right way.*
+*As a curious developer I want to learn about objects, so that I can use them in the right way.*
 
 ### Acceptance Criteria
-- A function numberMembers(obj) is available.
-- The function returns the number of members (properties and methods) of obj.
-
-
+- A new property is added to the object v (from user story 2).
+- The value of this new property is printed to the console.
+  
 ## User Story 4
+*For debugging purposes I can print all keys and all values of an object.*
+
+### Acceptance Criteria
+- A function debugObject(obj) is available.
+- The function first prints a list of all keys, followed by a list of all values, followed by a list of key:value pairs.
+
+
+## User Story 5
 *As a lazy developer I want to compare the structure of two objects easily, so that I can be sure about them.*
 
 ### Acceptance Criteria
