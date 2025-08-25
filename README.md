@@ -27,7 +27,6 @@ SEW | Working with Objects
 - A function debugObject(obj) is available.
 - The function first prints a list of all keys, followed by a list of all values, followed by a list of key:value pairs.
 
-
 ## User Story 5
 *As a lazy developer I want to compare the structure of two objects easily, so that I can be sure about them.*
 
@@ -39,6 +38,16 @@ SEW | Working with Objects
   - if they both have members with the same name
 - The order of the members does not matter
 
+## User Story 6
+*As a professional JavaScript developer, I want to understand a key difference between traditional function expressions and arrow functions.*
+
+### Acceptance Criteria
+- Create an object representing a person with `name` and `age` properties.  
+- The object has two methods:  
+  - One using a traditional function.  
+  - One using an arrow function.  
+- Both methods log `this.name` to the console.  
+- The observed behavior is explained in a comment.
 
 ## Skill(s)
 - [JavaScript Objects](https://my.skilldisplay.eu/en/skill/1838/0)
