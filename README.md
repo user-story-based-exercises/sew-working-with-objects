@@ -39,6 +39,27 @@ SEW | Working with Objects
 - The order of the members does not matter
 
 ## User Story 6
+*As a curious developer, I want to learn about Destructuring and Spread to use them efficiently in my code.*
+
+Use the following object:
+
+```js
+const person = {
+  name: "Maya",
+  age: 27,
+  address: {
+    city: "Berlin",
+    zip: "10115"
+  }
+};
+```
+
+### Acceptance Criteria
+- Destructuring is used to store name and city in separate variables.
+- A new object `personExtended` with spread is created that contains all properties of person, plus an additional field email with the value "maya@example.com".
+- The `age` field in the new object is overwritten to 28 using spread.
+
+## User Story 7
 *As a professional JavaScript developer, I want to understand a key difference between traditional function expressions and arrow functions.*
 
 ### Acceptance Criteria
